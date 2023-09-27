@@ -1,2 +1,2 @@
 # Ponteiro
-Exercícios e ponterio que fiz 
+Exercícios de ponteiros que fiz 
